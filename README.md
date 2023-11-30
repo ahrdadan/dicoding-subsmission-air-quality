@@ -12,7 +12,7 @@ streamlit run dashboard.py
 [https://github.com/ahrdadan/dicoding-subsmission-air-quality.git](https://github.com/ahrdadan/dicoding-subsmission-air-quality.git)
 
 ## Streamlit Link
-[https://github.com/ahrdadan/dicoding-subsmission-air-quality.git](https://github.com/ahrdadan/dicoding-subsmission-air-quality.git)
+[https://dicoding-subsmission-air-quality-tccqff7c4zujven3nw3w3x.streamlit.app/](https://dicoding-subsmission-air-quality-tccqff7c4zujven3nw3w3x.streamlit.app/)
 
 ## Screenshoots
 ### Pertanyaan 1
